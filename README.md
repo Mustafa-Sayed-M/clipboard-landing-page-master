@@ -1,6 +1,7 @@
 # Frontend Mentor - Clipboard landing page
-
-![Design preview for the Clipboard landing page coding challenge](./design/desktop-preview.jpg)
+<a href="https://mustafa-sayed-m.github.io/clipboard-landing-page-master/">
+<img src="./design/desktop-preview.jpg" alt="any" />
+</a>
 
 ## Welcome! 👋
 
